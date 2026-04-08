@@ -1,0 +1,1 @@
+git clone: clona el repositorio en un directorio local
