@@ -1,1 +1,3 @@
 git clone: clona el repositorio en un directorio local
+
+git commit: sirve para agregar un mensaje descriptivo al cambio que se ha realizado 
