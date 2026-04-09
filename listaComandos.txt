@@ -1,3 +1,9 @@
 git clone: clona el repositorio en un directorio local
 
 git commit: sirve para agregar un mensaje descriptivo al cambio que se ha realizado 
+
+git push: agrega los archivos al repositorio
+
+git status: sirve para visualizar si esta tomado en cuenta los archivos o no
+
+git add: sirve para agregar los archivos al repositorio y que los tome en cuenta
